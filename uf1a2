@@ -1,0 +1,28 @@
+# M01 Muntatge i manteniment d'equips
+
+**Explicacio i comandes per clonar el vostre repositori git.**
+
+1. Abrir github
+2. Pinchar en clone or download
+3. Copiar en HTTPS el link del repositorio
+4. Abrir terminal
+5. Hcer git clone y pegamos el link previamente copiado en el github
+
+ * **Gitclone**. Clonar el repositori localment
+ 
+**Explicació i comandes a executar per tal de desar els canvis i nous fitxers i pujar-los al repositor**
+
+1. Posem git add + el nom del fitxer que volem putjar
+2. Despres posem git push per aixi putjar el arxiu al nuvol.
+
+* **Git add** Per añadir l'arxiu al terminal
+* **Git push** Per enviar l'arxiu al repositori en el nuvol.
+
+**Explicació i comandes per tal de recuperar els fitxers del repositori remot.**
+
+1. Posem git pull per recuperar i unir automaticament l'arxiu.
+
+2. Posem git clone per putjarlo al nuvol.
+
+* **Git pull** Recuperar i unir automaticament l'arxiu.
+* **Git clone** Putjar l'arxiu al repositori del nuvol
