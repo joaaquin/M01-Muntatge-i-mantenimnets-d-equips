@@ -1,7 +1,7 @@
 
- # ***Instal·lacio de Fedora 24 en KVM***
+ # ***Instal·lacio de Fedora 24 en KVM*** #
 
-      SORIA GALLEGO JOAQUIN
+      ### SORIA GALLEGO JOAQUIN ###
 
 ***
 
