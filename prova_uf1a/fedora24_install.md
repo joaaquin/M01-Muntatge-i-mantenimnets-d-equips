@@ -1,8 +1,6 @@
-Finalitzar la creació de la màquina virtual i iniciar la instal.lació del sistema operatiu
-
-
 
  # ***Instal·lacio de Fedora 24 en KVM***
+
    ## SORIA GALLEGO JOAQUIN
 
 ***
